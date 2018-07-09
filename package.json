@@ -1,0 +1,25 @@
+{
+  "name": "c2dhealthcareservice",
+  "version": "1.0.0",
+  "description": "This is the API's service used for c2dhealthcare pvt ltd.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajTechcafe/c2dAPI.git"
+  },
+  "author": "RajGaurav Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajTechcafe/c2dAPI/issues"
+  },
+  "homepage": "https://github.com/RajTechcafe/c2dAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express.js": "^1.0.0",
+    "mssql": "^4.1.0"
+  }
+}
