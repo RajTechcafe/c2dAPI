@@ -1,5 +1,5 @@
-function executeQuery(app, dbs) {
-    app.use('api/patient', require('../Patient/index')(dbs))
+function executeQuery(app) {
+    app.use('api/patient', require('../Patient/index'));
     return app;
 }
 

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RajTechcafe/c2dAPI#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
     "express.js": "^1.0.0",
